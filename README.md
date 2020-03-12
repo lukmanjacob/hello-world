@@ -1,2 +1,2 @@
 # hi my name is Lukman Jacob
-I love Software Configuration Management
+I'm final year student!
