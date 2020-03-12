@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# hi my name is Lukman Jacob
+I love Software Configuration Management
